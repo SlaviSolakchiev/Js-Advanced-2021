@@ -11,3 +11,5 @@ function calc(x, y, a) {
     return operators[a](x, y)
 
 }
+
+console.l(calc(5, 6, '+'))
