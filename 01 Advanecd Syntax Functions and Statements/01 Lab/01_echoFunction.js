@@ -1,4 +1,5 @@
-function echo(s) {
-    return `${s.length}
-${s}`
+function echo(text) {
+    console.log(`${text.length} \n${text}` );
 }
+
+echo('Hello, JavaScript!');
