@@ -11,5 +11,3 @@ function calc(x, y, a) {
     return operators[a](x, y)
 
 }
-
-console.log(calc(5, 6, '+'))
