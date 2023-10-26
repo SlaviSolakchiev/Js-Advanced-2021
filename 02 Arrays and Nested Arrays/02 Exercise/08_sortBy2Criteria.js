@@ -1,6 +1,0 @@
-function solve(params) {
-
-}
-
-
-solve();
